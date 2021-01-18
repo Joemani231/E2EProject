@@ -1,0 +1,7 @@
+16:51:41.755 [TestNG-test=Test-1] INFO  resources.base - CanRelist is valid
+16:51:41.781 [TestNG-test=Test-1] INFO  resources.base - Promotions name and Description are valid
+16:54:09.516 [TestNG-test=Test-1] INFO  resources.base - Received GET response
+16:54:09.561 [TestNG-test=Test-1] INFO  resources.base - Response body is not null
+16:54:09.563 [TestNG-test=Test-1] INFO  resources.base - Success code valid
+16:54:10.012 [TestNG-test=Test-1] INFO  resources.base - Name is valid
+16:54:10.029 [TestNG-test=Test-1] INFO  resources.base - CanRelist is valid
